@@ -1,0 +1,16 @@
+.card{
+    width: 29%;
+    border: 2px solid blueviolet;
+    background-color: skyblue;
+    padding: auto;
+    margin: 2%;
+    border-radius: 10px;
+}
+
+.card img{
+    width: 95%;
+    margin: auto;
+    margin-top: 3%;
+    border-radius: 10px;
+
+}
